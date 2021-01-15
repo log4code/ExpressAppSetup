@@ -46,3 +46,11 @@ npm run start
 
 6. Success!
 
+
+## Zero Install (repl.it)
+
+If you don't want to install anything locally on your own machine and want to get started immediately, use [repl.it](repl.it).
+
+1. Sign up for a free account at [repl.it](repl.it)
+
+2. 
