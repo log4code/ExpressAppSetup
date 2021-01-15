@@ -1,2 +1,2 @@
 echo Express App Setup!
-echo Run the command 'sh ./setup.sh' to get started.
+echo See README.md file for instructions on how to run the Express app setup.
