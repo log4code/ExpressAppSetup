@@ -2,6 +2,8 @@
 
 This project contains a script that will allow you to quickly stand up a working NodeJS web application using Express (pug views).
 
+Don't want to install anything locally, try out the '[Zero Install](#zero-install-instructions) Instructions'
+
 ## Usage
 
 1. Clone the repository
@@ -47,7 +49,7 @@ npm run start
 6. Success!
 
 
-## Zero Install (repl.it)
+<h2 id='zero-install-instructions'>Zero Install (repl.it)</h2>
 
 If you don't want to install anything locally on your own machine and want to get started immediately, use [repl.it](repl.it).
 
