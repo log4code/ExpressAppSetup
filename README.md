@@ -17,36 +17,18 @@ git clone https://github.com/log4code/ExpressAppSetup.git
 sh ./setup.sh
 ```
 
-3. Make any project specific changes necessary to the package.json file
-```
-{
-  "name": "expressappsetup-4",
-  "version": "0.0.0",
-  "private": true,
-  "scripts": {
-    "start": "node ./bin/www"
-  },
-  "dependencies": {
-    "cookie-parser": "~1.4.4",
-    "debug": "~2.6.9",
-    "express": "~4.16.1",
-    "http-errors": "~1.6.3",
-    "morgan": "~1.9.1",
-    "pug": "2.0.0-beta11"
-  }
-}
-```
-
-4. Run the application
-```
-npm run start
-```
+3. The setup will install and setup an Express app and launch it.
 
 5. Navigate in your browser to `localhost:3000`
 
 ![Express-App-Successfully-running](https://github.com/log4code/ExpressAppSetup/blob/master/images/ExpressApp_success.png)
 
 6. Success!
+
+7. To launch the app in the future run the following command
+```
+npm run start
+```
 
 
 <h2 id='zero-install-instructions'>Zero Install (repl.it)</h2>
@@ -94,3 +76,8 @@ into the repository field
 ![Express-App-Successfully-running](https://github.com/log4code/ExpressAppSetup/blob/master/images/ExpressApp_success.png)
 
 12. Success!
+
+13. To launch the app in the future run the following command
+```
+npm run start
+```
