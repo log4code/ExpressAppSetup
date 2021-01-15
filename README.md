@@ -42,7 +42,7 @@ npm run start
 
 5. Navigate in your browser to `localhost:3000`
 
-![Express-App-Successfully-running](https://github.com/log4code/ExpressAppSetup/blob/master/ExpressApp_success.png)
+![Express-App-Successfully-running](https://github.com/log4code/ExpressAppSetup/blob/master/images/ExpressApp_success.png)
 
 6. Success!
 
